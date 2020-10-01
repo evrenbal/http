@@ -24,7 +24,7 @@
         "baka/database": "dev-fix-dotenv",
         "baka/elasticsearch": "dev-fix-dotenv",
         "elasticsearch/elasticsearch": "^6.1",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": ">6.3"
     },
     "require-dev": {
         "codeception/codeception": "^2.4",
