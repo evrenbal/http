@@ -22,7 +22,7 @@
         "vlucas/phpdotenv": ">2.0",
         "phalcon/incubator": ">=3.0.0",
         "baka/database": "dev-fix-dotenv",
-        "baka/elasticsearch": "dev-fixdotenv",
+        "baka/elasticsearch": "dev-fix-dotenv",
         "elasticsearch/elasticsearch": "^6.1",
         "guzzlehttp/guzzle": "^6.3"
     },
